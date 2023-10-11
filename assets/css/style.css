@@ -1,43 +1,57 @@
 header{
-	margin-left: 45%;
+	margin-left: 0;
+	background-color: lightblue;
 }
 body{
-	background-image: url("https://img.freepik.com/vektoren-kostenlos/hintergrund-der-gradienten-netzwerkverbindung_23-2148874120.jpg?size=626&ext=jpg");
-	background-repeat: revert-layer;
-	color: white;
+	background-color: antiquewhite;
+	margin-left: 7%;
+	margin-right: 7%;
+}
+#newBody{
+	background-color: white;
+	padding-left: 3%;
+	padding-right: 3%;
+	padding-top: 3%;
+	
+	color: black;
 	font-family: Arial, sans-serif;
     margin: 20px;
-    font-size: 20px;
-    font-weight: bold;
+    font-size: 18px;
+    border-style: solid;
+    
 }
 ul {
             list-style-type: disc;
     }
 .tip {
             margin-bottom: 4%;
-            margin-left: 13%;
-            margin-right: 20%;
+            
         }
 
 section{
 	margin-bottom: 10%;
-	margin-top: 6%;
+	margin-top: 1%;
 }
 h1{
 	margin-bottom: 3%;
-	margin-left: 25%;
-	color: gold;
+	margin-left: 23%;
+	font-weight: bold;
 }
 h2{
-	color: yellowgreen;
+	color: black;
 }
 #phishing{
 	margin-left: 35%;
 	margin-bottom: 3%;
 }
 a{
-	color: gold;
+	color: red;
 	font-weight: bold;
 	;
+
+}
+li{
+	list-style-type: square;
+	margin-bottom: 5px;
 
 }
